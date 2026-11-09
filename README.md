@@ -1,3 +1,12 @@
+<div align="center">
+
+# ZOMATO BUSINESS INTELLIGENCE DASHBOARD
+
+<img src="assets/zomato-dashboard-cover.png" width="100%" alt="Zomato Business Intelligence Dashboard">
+
+### Restaurant Market Analysis | Customer Insights | Business Performance
+
+</div>
 # 🍽️ Zomato Business Intelligence Dashboard
 
 An interactive data analytics project exploring restaurant data to uncover business insights, customer preferences, restaurant performance, and market trends.
