@@ -2,7 +2,7 @@
 
 # ZOMATO BUSINESS INTELLIGENCE DASHBOARD
 
-<img src="assets/zomato-dashboard-cover.png" width="100%" alt="Zomato Business Intelligence Dashboard">
+<img src="assets/Zomato_dashboard.png" width="100%" alt="Zomato Business Intelligence Dashboard">
 
 ### Restaurant Market Analysis | Customer Insights | Business Performance
 
